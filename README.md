@@ -87,7 +87,7 @@ Junior at UIUC studying CS + Statistics. I am a builder at heart, specialized in
 
 ## Building in Public
 
-▶ &nbsp;**[Dannycademy](https://www.youtube.com/@dannycademy)** — CS tutorials & project walkthroughs · 100K+ views
+▶ &nbsp;**[Dannycademy](https://www.youtube.com/@dannycademy)** Project walkthroughs & Discord Bot Tutorials · 100K+ views
 
 ---
 
