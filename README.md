@@ -20,7 +20,7 @@
 
 ## About
 
-Junior at UIUC studying CS + Statistics. I am a builder at heart, specialized in backend development. Recently, I've been building AI-native tools and I've been obsessed with agentic systems.
+Junior at UIUC studying CS + Statistics. I am a builder at heart, specialized in backend development. Recently, I've been building AI-native tools.
 
 ---
 
