@@ -30,12 +30,12 @@ Junior at UIUC studying CS + Statistics. I am a builder at heart, specialized in
     <td width="50%" valign="top">
       <h3><a href="https://github.com/KevinZhou168/Apollo">Apollo</a></h3>
       <p>Self-extending multi-agent system that dynamically synthesizes and deploys MCP servers at runtime.</p>
-      <p><code>Python</code> · <code>MCP</code> · <code>Agents</code></p>
+      <p><code>Python</code> · <code>MCP</code> · <code>Agents</code> · <code>Anthropic API</code></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Jsze30/ELeet_Web">ELeet</a></h3>
       <p>AI-powered voice mock interview platform with real-time feedback · 80+ waitlist signups.</p>
-      <p><code>GPT-4o</code> · <code>Deepgram</code> · <code>React</code></p>
+      <p><code>GPT-4o</code> · <code>Deepgram</code> · <code>React</code> · <code>Supabase</code> </p>
     </td>
   </tr>
   <tr>
@@ -54,7 +54,7 @@ Junior at UIUC studying CS + Statistics. I am a builder at heart, specialized in
     <td width="50%" valign="top">
       <h3><a href="https://github.com/somyas25/cs124h">CS 124 Honors</a></h3>
       <p>Landing page for the CS 124 Honors section at UIUC, serving 400+ students.</p>
-      <p><code>HTML</code> · <code>CSS</code> · <code>JS</code></p>
+      <p><code>React</code> · <code>Supabase</code></p>
     </td>
     <td width="50%" valign="top">
       <!-- Add your next project here -->
