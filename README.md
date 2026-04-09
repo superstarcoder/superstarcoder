@@ -9,6 +9,7 @@
 ![Backend](https://img.shields.io/badge/Backend-0077B6?style=flat-square&logo=server&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-0077B6?style=flat-square&logo=protocol&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0077B6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0077B6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-0077B6?style=flat-square&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-0077B6?style=flat-square&logo=amazon-web-services&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-0077B6?style=flat-square&logo=supabase&logoColor=white)
@@ -64,7 +65,7 @@ Junior at UIUC studying CS + Statistics. I am a builder at heart, specialized in
       <p>
         <img src="https://img.shields.io/badge/React-0077B6?style=flat-square&logo=react&logoColor=white"/>
         <img src="https://img.shields.io/badge/Supabase-0077B6?style=flat-square&logo=supabase&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-0077B6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-0077B6?style=flat-square&logo=typescript&logoColor=white"/>
       </p>
     </td>
   </tr>
