@@ -28,6 +28,15 @@ Junior at UIUC studying CS + Statistics. I am a builder at heart, specialized in
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>🏙️ <a href="https://github.com/superstarcoder/MetroPrompt">MetroPrompt</a></h3>
+      <p>Agentic city builder where AI agents collaboratively design and construct a city from your prompts alone. Citizens with Claude-powered brains are spawned into the city, each with unique personalities, needs, and jobs that drive their daily behavior across a 7-day simulation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-0077B6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Anthropic%20API-0077B6?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Claude%20Managed%20Agents-0077B6?style=flat-square&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3>🤖 <a href="https://github.com/KevinZhou168/Apollo">Apollo</a></h3>
       <p>Self-extending multi-agent system that dynamically synthesizes and deploys MCP servers at runtime.</p>
       <p>
@@ -37,24 +46,15 @@ Junior at UIUC studying CS + Statistics. I am a builder at heart, specialized in
         <img src="https://img.shields.io/badge/Anthropic%20API-0077B6?style=flat-square&logoColor=white"/>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🎙️ <a href="https://github.com/Jsze30/ELeet_Web">ELeet</a></h3>
-      <p>AI-powered voice mock interview platform with real-time feedback · 80+ waitlist signups.</p>
+      <p>AI-powered voice mock interview platform with real-time feedback · 100+ user signups.</p>
       <p>
         <img src="https://img.shields.io/badge/GPT--4o-0077B6?style=flat-square&logo=openai&logoColor=white"/>
         <img src="https://img.shields.io/badge/Deepgram-0077B6?style=flat-square&logoColor=white"/>
         <img src="https://img.shields.io/badge/React-0077B6?style=flat-square&logo=react&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Supabase-0077B6?style=flat-square&logo=supabase&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📚 <a href="https://github.com/Jsze30/Learnable">Learnable</a></h3>
-      <p>AI study tool that transforms any content into interactive learning experiences.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-0077B6?style=flat-square&logo=next.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenAI-0077B6?style=flat-square&logo=openai&logoColor=white"/>
         <img src="https://img.shields.io/badge/Supabase-0077B6?style=flat-square&logo=supabase&logoColor=white"/>
       </p>
     </td>
