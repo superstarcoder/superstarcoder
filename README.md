@@ -19,7 +19,7 @@
 
 ## About
 
-Junior at UIUC studying CS + Statistics. I am a builder at heart, specialized in backend development. Recently, I've been building AI-native tools.
+Senior at UIUC studying CS + Statistics. I am a builder at heart, specialized in backend development. Recently, I've been building AI-native tools.
 
 ---
 
